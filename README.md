@@ -70,6 +70,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaballah&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+---
+
+### :trophy: Github Trophies :
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=kaballah&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
